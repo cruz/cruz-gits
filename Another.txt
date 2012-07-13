@@ -7,3 +7,6 @@ and another line in the same file
 and another one more for my local branch
 
 This one is created from local.
+
+I want to commit this to the remote branch.
+
